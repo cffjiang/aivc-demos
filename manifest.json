@@ -452,5 +452,41 @@
       "method": "Horizontal stack, both start at frame zero, original speed and framing; no text overlays."
     },
     "web_bytes": 4678548
+  },
+  {
+    "file": "tactile-puzzle-tubes-sim.mp4",
+    "bytes": 2803987,
+    "duration": 14.0,
+    "width": 1080,
+    "height": 1200,
+    "codec": "h264",
+    "fps": "30/1",
+    "audio": false,
+    "original_sha256": "22fafa1ba1858d31c7a508570b585a0c3f13328141ff9c3ef26de566de55f293",
+    "web_bytes": 746761,
+    "source_url": "https://tac-corl.github.io/assets/videos/hero/1_puzzle_best_sim_tube_grid_14s.mp4",
+    "source_sha256": "6876f685939482366fb2a962b6e6a6056c5053e98a5561ea303f94840118cd5f",
+    "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1200,
+      "source_width": 2160,
+      "source_height": 1200,
+      "method": "Keep the left half with both stacked simulation views, preserving all 420 frames at 30 fps."
+    }
+  },
+  {
+    "file": "embeddedipc-1.mp4",
+    "bytes": 24134313,
+    "duration": 13.826667,
+    "width": 1920,
+    "height": 1080,
+    "codec": "h264",
+    "fps": "31425/1042",
+    "audio": true,
+    "original_sha256": "b365f3d4f88a8e85bd7f0c9eb28561f9aea6378ecb8e4fcaa52655e4c69085e2",
+    "web_bytes": 1848210,
+    "source": "User-provided embeddedipc-1.mp4; original file unchanged."
   }
 ]
