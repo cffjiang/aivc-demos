@@ -358,5 +358,87 @@
     "audio": false,
     "original_sha256": "13b5801390373b9671d2906f4417ac4f506651931af2d39974cf884449befee0",
     "web_bytes": 257108
+  },
+  {
+    "file": "02-banana-four-cuts-mesh-30fps.mp4",
+    "bytes": 2029687,
+    "duration": 27.966667,
+    "width": 942,
+    "height": 720,
+    "codec": "h264",
+    "fps": "30/1",
+    "audio": false,
+    "source_url": "https://jango6324.github.io/assets/blademaster/videos/02-banana-four-cuts-mesh-30fps.mp4",
+    "original_sha256": "7bc16c5a387d1a8f41696bccc9f81277f130f3193b5ca35269f4875b0a679872",
+    "web_bytes": 1218204
+  },
+  {
+    "file": "02-banana-four-cuts-physical-30fps.mp4",
+    "bytes": 6733961,
+    "duration": 27.966667,
+    "width": 942,
+    "height": 720,
+    "codec": "h264",
+    "fps": "30/1",
+    "audio": false,
+    "source_url": "https://jango6324.github.io/assets/blademaster/videos/02-banana-four-cuts-physical-30fps.mp4",
+    "original_sha256": "fa52979eea485ed7da3b44128979331f45f4dd53f8ab1af94da79c914aa8b467",
+    "web_bytes": 3508997
+  },
+  {
+    "file": "03-sequential-slicing-mesh-30fps.mp4",
+    "bytes": 2267437,
+    "duration": 14.833333,
+    "width": 1280,
+    "height": 960,
+    "codec": "h264",
+    "fps": "30/1",
+    "audio": false,
+    "source_url": "https://jango6324.github.io/assets/blademaster/videos/03-sequential-slicing-mesh-30fps.mp4",
+    "original_sha256": "3e28d4da4d5bb09a23b8dd3dfe9c054a8c776e5cc3a8e25369e465e146bdaca6",
+    "web_bytes": 633273
+  },
+  {
+    "file": "05-deep-cuts-mesh-30fps.mp4",
+    "bytes": 2082904,
+    "duration": 11.966667,
+    "width": 1280,
+    "height": 960,
+    "codec": "h264",
+    "fps": "30/1",
+    "audio": false,
+    "source_url": "https://jango6324.github.io/assets/blademaster/videos/05-deep-cuts-mesh-30fps.mp4",
+    "original_sha256": "9de752fa3f5562ff8f81794a7d7d197a23409f1f154cd4d2bf9a8149e3102f82",
+    "web_bytes": 599695
+  },
+  {
+    "file": "09-two-way-coupling-normal-speed-30fps.mp4",
+    "bytes": 363866,
+    "duration": 5.0,
+    "width": 1280,
+    "height": 720,
+    "codec": "h264",
+    "fps": "30/1",
+    "audio": false,
+    "source_url": "https://jango6324.github.io/assets/blademaster/videos/09-two-way-coupling-normal-speed-30fps.mp4",
+    "original_sha256": "755d4ee7971f6f25201e0e9ca65ed7eb8c94eea8941fed1645fe05fb961dc4a7",
+    "web_bytes": 171979
+  },
+  {
+    "file": "02-banana-sim-real-30fps.mp4",
+    "bytes": 9937185,
+    "duration": 27.966667,
+    "width": 1884,
+    "height": 720,
+    "codec": "h264",
+    "fps": "30/1",
+    "audio": false,
+    "original_sha256": "ec57208a6c9c4b632518568a1e23159f213fd526cd76c760400bed7788779cde",
+    "composition": {
+      "left": "02-banana-four-cuts-mesh-30fps.mp4",
+      "right": "02-banana-four-cuts-physical-30fps.mp4",
+      "method": "Horizontal stack, both start at frame zero, original speed and framing; no text overlays."
+    },
+    "web_bytes": 4678548
   }
 ]
