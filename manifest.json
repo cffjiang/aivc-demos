@@ -121,15 +121,16 @@
   },
   {
     "file": "fold_sleeveless.mp4",
-    "bytes": 19878483,
-    "duration": 9.25,
+    "bytes": 23974308,
+    "duration": 20.9,
     "width": 1632,
     "height": 1440,
     "codec": "h264",
     "fps": "60/1",
     "audio": false,
-    "original_sha256": "8bf01410ea4dc6bc73a64324f8ea4ee465411a3e257be44219320e839c9e1e7f",
-    "web_bytes": 1170253
+    "original_sha256": "ee0f932009a5a67586a340d984433fa0fff67f6b0546766c6100b9d27baf2bf3",
+    "web_bytes": 1082106,
+    "source": "User-provided replacement on 2026-09-29; original file unchanged."
   },
   {
     "file": "fold_towel.mp4",
