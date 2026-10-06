@@ -253,6 +253,19 @@
     "web_bytes": 79867
   },
   {
+    "file": "pull_cloth.mp4",
+    "bytes": 10017320,
+    "duration": 8.0,
+    "width": 1632,
+    "height": 1440,
+    "codec": "h264",
+    "fps": "60/1",
+    "audio": false,
+    "original_sha256": "ec91f8cb088170d4942e0037a191bfa2882595ca8b938b2828b08b91681ab86e",
+    "web_bytes": 600225,
+    "source": "User-provided replacement from pull_cloth_idp_filter_review; original bytes preserved."
+  },
+  {
     "file": "rope_hang.mp4",
     "bytes": 27259438,
     "duration": 22.0,
