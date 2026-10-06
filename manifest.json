@@ -477,5 +477,19 @@
     "original_sha256": "b365f3d4f88a8e85bd7f0c9eb28561f9aea6378ecb8e4fcaa52655e4c69085e2",
     "web_bytes": 1848210,
     "source": "User-provided embeddedipc-1.mp4; original file unchanged."
+  },
+  {
+    "file": "shuffle.mp4",
+    "bytes": 667075,
+    "duration": 4.366666666666666,
+    "width": 1280,
+    "height": 680,
+    "codec": "h264",
+    "fps": "30/1",
+    "audio": false,
+    "original_sha256": "fb041a680ed28189dc0463bcb70aa8e5cdc29282bdb714df2e8842983e96d8a2",
+    "web_bytes": 667075,
+    "source": "User-provided shuffle video, renamed on 2026-10-06 without changing the original bytes.",
+    "web_processing": "Video stream copied without re-encoding; fast-start metadata."
   }
 ]
