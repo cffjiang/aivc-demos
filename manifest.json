@@ -504,5 +504,18 @@
     "web_bytes": 667075,
     "source": "User-provided shuffle video, renamed on 2026-10-06 without changing the original bytes.",
     "web_processing": "Video stream copied without re-encoding; fast-start metadata."
+  },
+  {
+    "file": "harp.mp4",
+    "bytes": 9394794,
+    "duration": 20.0,
+    "width": 1632,
+    "height": 1440,
+    "codec": "h264",
+    "fps": "60/1",
+    "audio": false,
+    "original_sha256": "160850c5dd5a2236bf2d359dfa3add275ea74658d1c1ac1d77c37f913451ff73",
+    "web_bytes": 596105,
+    "source": "User-provided harp.mp4; original bytes preserved."
   }
 ]
