@@ -506,29 +506,17 @@
     "web_processing": "Video stream copied without re-encoding; fast-start metadata."
   },
   {
-    "file": "harp.mp4",
-    "bytes": 9394794,
-    "duration": 20.0,
-    "width": 1632,
-    "height": 1440,
+    "file": "combined_harp_audio.mp4",
+    "bytes": 6834127,
+    "duration": 31.0,
+    "width": 1280,
+    "height": 960,
     "codec": "h264",
-    "fps": "60/1",
-    "audio": false,
-    "original_sha256": "160850c5dd5a2236bf2d359dfa3add275ea74658d1c1ac1d77c37f913451ff73",
-    "web_bytes": 596105,
-    "source": "User-provided harp.mp4; original bytes preserved."
-  },
-  {
-    "file": "harp2.mp4",
-    "bytes": 4726973,
-    "duration": 11.0,
-    "width": 1632,
-    "height": 1440,
-    "codec": "h264",
-    "fps": "60/1",
-    "audio": false,
-    "original_sha256": "a022e65016f85fab798ff851d0bc7488bf67a509013947c1474fd9931fea29e5",
-    "web_bytes": 337501,
-    "source": "User-provided harp2.mp4; original bytes preserved."
+    "fps": "30/1",
+    "audio": true,
+    "original_sha256": "31b2ee330e2ad436c7142712391763d35a4558fd67ae6b7d47cf0d7df107a86f",
+    "web_bytes": 1672727,
+    "source": "User-provided combined_harp_audio.mp4; original bytes preserved.",
+    "web_processing": "720p H.264 fast-start; original AAC audio stream copied without re-encoding."
   }
 ]
